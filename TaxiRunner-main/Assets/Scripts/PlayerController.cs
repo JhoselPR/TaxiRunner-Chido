@@ -29,6 +29,7 @@ public class PlayerController : MonoBehaviour
 
 
     private void Start() {
+        Debug.Log("Hola Mundo");
         
     
 
