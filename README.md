@@ -1,6 +1,6 @@
-#Taxi-Runner
+# Taxi-Runner
 
-Videojuego endless runner 3D desarrollado en Unity.
+Videojuego endless runner 3D desarrollado en Unity.  
 Proyecto creado para SODVI (Sociedad de Desarrollo de Videojuegos).
 
 ## Para jugar:
@@ -8,8 +8,8 @@ Proyecto creado para SODVI (Sociedad de Desarrollo de Videojuegos).
 -Descomprime el archivo "Taxi-Runner.zip"
 -Ejecuta el archivo "CombiRunner.exe"
 
-**Autores**
--David
--Jhosel
--Alfredo
--Andrés
+## **Autores**
+- David
+- Jhosel
+- Alfredo
+- Andrés
